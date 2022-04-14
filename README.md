@@ -29,9 +29,6 @@ https://pub.dev/packages/cached_network_image
 Read our guidelines to increase the accuracy of design conversion to code by optimizing Figma designs.
 https://docs.dhiwise.com/knowledgehub/reference-guide-and-tools/figma
 
-## App Navigation
-
-Check your app's UI from the AppNavigation screen of your app.
 
 ## Package Structure
 
